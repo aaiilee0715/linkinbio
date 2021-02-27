@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/anothays-linkinbio/static/css/main.33419fc4.chunk.css",
+    "main.js": "/anothays-linkinbio/static/js/main.e21151c7.chunk.js",
+    "main.js.map": "/anothays-linkinbio/static/js/main.e21151c7.chunk.js.map",
+    "runtime-main.js": "/anothays-linkinbio/static/js/runtime-main.f084af5f.js",
+    "runtime-main.js.map": "/anothays-linkinbio/static/js/runtime-main.f084af5f.js.map",
+    "static/js/2.0501feb9.chunk.js": "/anothays-linkinbio/static/js/2.0501feb9.chunk.js",
+    "static/js/2.0501feb9.chunk.js.map": "/anothays-linkinbio/static/js/2.0501feb9.chunk.js.map",
+    "static/js/3.77c75e9d.chunk.js": "/anothays-linkinbio/static/js/3.77c75e9d.chunk.js",
+    "static/js/3.77c75e9d.chunk.js.map": "/anothays-linkinbio/static/js/3.77c75e9d.chunk.js.map",
+    "index.html": "/anothays-linkinbio/index.html",
+    "static/css/main.33419fc4.chunk.css.map": "/anothays-linkinbio/static/css/main.33419fc4.chunk.css.map",
+    "static/js/2.0501feb9.chunk.js.LICENSE.txt": "/anothays-linkinbio/static/js/2.0501feb9.chunk.js.LICENSE.txt",
+    "static/media/Anothay_Chansy.1ba9d35b.jpg": "/anothays-linkinbio/static/media/Anothay_Chansy.1ba9d35b.jpg",
+    "static/media/style.css": "/anothays-linkinbio/static/media/photo-1513151233558-d860c5398176.db44b58d.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f084af5f.js",
+    "static/js/2.0501feb9.chunk.js",
+    "static/css/main.33419fc4.chunk.css",
+    "static/js/main.e21151c7.chunk.js"
+  ]
+}
