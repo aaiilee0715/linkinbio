@@ -3,7 +3,8 @@ import '../components/styles/style.css';
 
 import MainHomePageCardComponent from '../components/homeUI';
 import AnothayPix from '../components/images/Anothay_Chansy.jpg';
-import GitHubPix from '../components/images/github+icon-1320168274457504277.png';
+import GitHubPix from '../components/images/icon-github.png';
+import TwitterPix from '../components/images/icon-twitter.png';
 
 class MainPageDisplay extends Component {
     render() {
@@ -33,7 +34,7 @@ class MainPageDisplay extends Component {
                         <a
                             href="https://www.buymeacoffee.com/ann.codes"
                             target="_blank"
-                            
+
 
                         >
                             <div className="link-list-item bright">
@@ -47,8 +48,32 @@ class MainPageDisplay extends Component {
                         </a>
                     </div>
                     <div className="icon-list">
+                        <a
+                            href="https://github.com/aaiilee0715"
+                            target="_blank"
+                            
+                        >
+                            <img
+                                src={GitHubPix}
+                                alt="github link"
+                                class="icon-list-img"
+                            />
+                        </a>
+                        <a
+                            href="https://twitter.com/_aaiilee"
+                            target="_blank"
+                           
+                        >
+                            <img
+                                src={TwitterPix}
+                                alt="twitter link"
+                                class="icon-list-img"
+                            />
+                        </a>
                     </div>
                 </div>
+
+
             </>
         );
     }
